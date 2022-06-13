@@ -12,13 +12,13 @@ I could tell a few times that I was using the wrong formula, so it helped to pla
 
 ## Results
 
-<ADD CHART HERE>
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99292945/173294120-09ed7765-54dc-4d8e-9ee0-bf8d2b19f593.png)
 
 From the theater outcomes by launch date chart, we can see that very few campaigns
 were cancelled. We can also see that the majorite of the campaigns were successful
 throughout the year, especially in the summer months.
 
-<ADD GOALS CHART HERE>
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99292945/173294107-22819069-b5e7-4a9a-818b-82b0fd0a19c3.png)
 
 There aren't a whole lot of things this chart helps us to understand. We can see that the
 cancelled percentage is 0% across the board. The percentage successful and percentage failed, both 
